@@ -1,1 +1,13 @@
-SPACER
+{
+  "name": "premid-ilg-spedition",
+  "version": "1.0.0",
+  "description": "PreMiD presence for the ILG Spedition ETS2 portal.",
+  "main": "dist/presence.js",
+  "scripts": {
+    "build": "premid build"
+  },
+  "devDependencies": {
+    "@preact/presence": "latest",
+    "typescript": "latest"
+  }
+}
