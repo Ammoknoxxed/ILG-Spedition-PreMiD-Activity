@@ -1,1 +1,14 @@
-SPACER
+{
+  "author": "AMMOKNOXX",
+  "service": "ILG Spedition Portal",
+  "description": {
+    "en": "Shows your activity on the ILG Spedition portal.",
+    "de": "Zeigt deine Aktivität im ILG-Speditionsportal."
+  },
+  "url": "portal.ilg-spedition.de",
+  "version": "1.0.0",
+  "logo": "logo",
+  "thumbnail": "thumbnail",
+  "color": "#1E90FF",
+  "category": "games"
+}
