@@ -2,13 +2,23 @@
   "author": "AMMOKNOXX",
   "service": "ILG Spedition Portal",
   "description": {
-    "en": "Shows your activity on the ILG Spedition portal.",
-    "de": "Zeigt deine Aktivität im ILG-Speditionsportal."
+    "en": "Shows which page of the ILG Spedition Portal you are currently viewing.",
+    "de": "Zeigt an, auf welcher Seite des ILG-Spedition-Portals du dich gerade befindest."
   },
-  "url": "portal.ilg-spedition.de",
+  "url": "https://portal.ilg-spedition.de/",
   "version": "1.0.0",
-  "logo": "logo",
-  "thumbnail": "thumbnail",
-  "color": "#1E90FF",
-  "category": "games"
+  "logo": "ilg_logo",
+  "thumbnail": "ilg_logo",
+  "color": "#650303",
+  "category": "other",
+  "tags": [
+    "ILG",
+    "Spedition",
+    "ETS2",
+    "ATS",
+    "Wiki",
+    "Portal",
+    "Logistik",
+    "Community"
+  ]
 }
