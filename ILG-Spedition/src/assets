@@ -1,1 +1,5 @@
-
+{
+  "large": {
+    "ilg_logo": "assets/ilg_logo.png"
+  }
+}
